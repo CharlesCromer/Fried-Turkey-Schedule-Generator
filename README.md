@@ -1,6 +1,6 @@
 # Fried Turkey Schedule Generator 🦃
 
-A simple, interactive Python program that works backward from your planned meal time to build a deep-fried turkey preparation and cooking schedule.
+Determining all the timing factors for a perfect turkey dinner during the holidays was always difficult. You always had to work backward in time from when you wanted to serve to the time you start thawing the bird. Well... this is where this program solves that problem. A simple, interactive Python program that works backward from your planned meal time to build a deep-fried turkey preparation and cooking schedule.
 
 Enter **when you want to serve dinner** and **the weight of your turkey**, and the program calculates when to begin preparation, heat the oil, start frying, check the turkey's temperature, and carve. The schedule appears in the terminal and is saved to a printable text file.
 
